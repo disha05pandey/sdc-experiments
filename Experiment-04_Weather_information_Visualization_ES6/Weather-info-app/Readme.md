@@ -45,7 +45,5 @@ Dependencies
 License
 This project is licensed under the MIT License.
 
-Author
-•M Swayam Prakash
-•GitHub: Your GitHub Profile
-Feel free to contribute or suggest improvements!
+
+Feel free to contribute or suggest improvements!![Screenshot 2025-06-23 195025](https://github.com/user-attachments/assets/1b5b53f6-d245-4efd-82d3-b043ed5a2cb3)
